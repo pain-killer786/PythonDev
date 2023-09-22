@@ -5,7 +5,7 @@ This repository contains all the files for my Python Practice.
 
 ## Datatypes- Numeric(int,float,complex), String(str), Sequence(list, tuple, range), Mapping(dict), Boolean(bool), Set(set,frozeenset)
 
-# Single line comments start with a number symbol.
+# Single line comments start with a # symbol.
 
 """ Multiline strings can be written
     using three "s, and are often used
