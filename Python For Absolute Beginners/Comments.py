@@ -1,1 +1,0 @@
-# This is a comment in Python. This line will be ignored by python interpreter. Other types of Python comments is """""" this is a multi line comment.
