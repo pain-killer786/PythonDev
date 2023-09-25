@@ -29,3 +29,7 @@ print(phones)
 more_phones ={"Kia":234567}
 phones.update(more_phones)
 print(phones)
+
+#Delete elements in a dict
+phones.pop("john")
+print(phones)
