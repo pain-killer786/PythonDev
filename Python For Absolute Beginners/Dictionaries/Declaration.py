@@ -25,3 +25,7 @@ print(phones)
 #add elements in a dictionary
 phones["Kia"]=2580
 print(phones)
+
+more_phones ={"Kia":234567}
+phones.update(more_phones)
+print(phones)
