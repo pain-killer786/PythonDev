@@ -21,3 +21,7 @@ print(phones.keys())
 #Update value in Dict
 phones["john"]= 9874
 print(phones)
+
+#add elements in a dictionary
+phones["Kia"]=2580
+print(phones)
