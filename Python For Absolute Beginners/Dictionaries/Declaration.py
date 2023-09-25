@@ -39,3 +39,8 @@ print(phones)
 
 phones.clear() # This will empty the dict
 print(phones)
+
+#printing the elements of a dict
+for x,y in phones.items():
+    print(x,y)
+    
