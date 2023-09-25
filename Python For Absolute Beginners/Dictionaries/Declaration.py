@@ -43,4 +43,7 @@ print(phones)
 #printing the elements of a dict
 for x,y in phones.items():
     print(x,y)
-    
+   
+#Nested Dictionary-> 
+phones={"Area1":{"x":0,"y":1},"Area2":{"a":5,"b":7}} 
+print(phones["Area1"]["y"])
