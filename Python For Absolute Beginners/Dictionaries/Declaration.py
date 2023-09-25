@@ -36,3 +36,6 @@ print(phones)
 
 phones.popitem() #This will remove the last added item
 print(phones)
+
+phones.clear() # This will empty the dict
+print(phones)
