@@ -33,3 +33,6 @@ print(phones)
 #Delete elements in a dict
 phones.pop("john")
 print(phones)
+
+phones.popitem() #This will remove the last added item
+print(phones)
