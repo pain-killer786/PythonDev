@@ -1,7 +1,7 @@
 def Sum(n1,n2):
     ans=n1+n2
-    print(ans)
+    return ans
 
 a=int(input("Enter a number"))
 b=int(input("Enter a number"))
-Sum(a,b)
+print(Sum(a,b))
