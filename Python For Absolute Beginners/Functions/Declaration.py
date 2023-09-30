@@ -42,3 +42,30 @@ def outer_function():
     return inner_function()
 output=outer_function()
 print(output)
+
+#Pass by value and Pass by Reference
+
+# Pass by value is for immutable objects -> (strings, integers,float,tuples)
+#When passed to a function, a copy of the object is created and assigned to a local variable in a function
+#If any change is made to the values inside function, it doesn't affect the original variable outside the function.
+
+def addOne(x):
+    x+=1
+    print("Inside Function:",x)
+    
+x=5
+addOne(x)
+print("Outside Function",x)
+
+#Pass By reference is for mutable objects -> (list dictionary)
+# A reference or memory address to actual is passed to function.
+# Changes inside the function will affect the values outside the function.
+
+def modifyList(lst):
+    lst.append(4)
+    print("Inside Function",lst)
+    
+lst=[1,2,3]
+modifyList(lst)
+print("Outside function:",lst)
+
