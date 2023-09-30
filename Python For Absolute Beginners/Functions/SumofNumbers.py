@@ -4,4 +4,10 @@ def Sum(n1,n2):
 
 a=int(input("Enter a number"))
 b=int(input("Enter a number"))
-print(Sum(a,b))
+print("The Sum is:",Sum(a,b))
+
+#positional argument
+#print("The sum is",Sum(3,2))
+
+#keyword argument(named arguments)
+#print("The sum is: ",Sum(n2=6,n1=4))
