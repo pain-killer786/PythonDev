@@ -22,3 +22,10 @@ def addAllNumbers(*args):
 
 output=addAllNumbers(2,4,5,6,9,8,7,4,5,2,1,3,6,5,4,7)
 print(output)
+
+# **kwargs-> key value pair arguments like used in dictionary
+def studentInfo(**kwargs):
+    for x,y in kwargs.items():
+        print(x,y)
+        
+studentInfo(name="Krishnendu",age=21,city="Kol")
