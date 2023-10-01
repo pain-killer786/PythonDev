@@ -8,4 +8,4 @@ def printNumbers(x):
     printNumbers(x-1)
     
 n=int(input("Enter a number"))
-print("The result is", printNumbers(n))
+printNumbers(n)
