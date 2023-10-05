@@ -25,3 +25,8 @@ class Student:
 student1=Student()
 student1.set_name("Shehnaz")
 print(student1.name)
+
+class Myclass:
+    x=5
+p1=Myclass()
+print(p1.x)
