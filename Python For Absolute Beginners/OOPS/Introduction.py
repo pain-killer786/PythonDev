@@ -5,3 +5,7 @@
 # Helps to mimic real world entities & their interactions
 # Code reusability
 # Organisation & maintainability of code
+
+#What are Classes?
+# Used defined data types
+# Classes are the blueprint/template for an object
