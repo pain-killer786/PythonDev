@@ -26,6 +26,7 @@ print(phones)
 phones["Kia"]=2580
 print(phones)
 
+#Add key value pair to the dictionary
 more_phones ={"Kia":234567}
 phones.update(more_phones)
 print(phones)
