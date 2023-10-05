@@ -13,3 +13,15 @@
 #What are Objects?
 # Object is an instance of type class
 # Mimics real world entities
+
+class Student:
+    
+    def set_name(self,name): #bSelf parameter signifies the object
+        self.name=name
+        
+    def get_name(self):
+        return self.name
+    
+student1=Student()
+student1.set_name("Shehnaz")
+print(student1.name)
