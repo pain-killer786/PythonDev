@@ -9,3 +9,7 @@
 #What are Classes?
 # Used defined data types
 # Classes are the blueprint/template for an object
+
+#What are Objects?
+# Object is an instance of type class
+# Mimics real world entities
