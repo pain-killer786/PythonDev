@@ -1,0 +1,15 @@
+Numpy:-
+
+->Numpy provides efficient storage
+->It also provides better ways of handling data for processing 
+->It is fast
+->It is easy to learn 
+->Numpy uses less memory to store data.
+
+
+jupyter Notebook:-
+
+->The Jupyter Notebook is an opensource web application that allows you to create and share documents that contain livecode, equations, visualizations and narrative text.
+->The Notebook has support for over 40 programming languages, including Python, R. Julia, and Scala.
+->Notebooks can be shared with others using email, Github and Jupyter Notebook Viewer.
+->Your code can produce rich, interactive, output: HTML, images, videos, LaTeX and custom MIME types. 
