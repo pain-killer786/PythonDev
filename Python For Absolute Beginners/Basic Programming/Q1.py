@@ -3,7 +3,7 @@
 input_string=input("Enter the size of list")
 n=int(input("Enter the position"))
 
-#Crearing dictionary for mirror operation
+#Creating dictionary for mirror operation
 alphabets="abcdefghijklmnopqrstuvwxyz"
 reverse_alphabets=alphabets[::-1]
 dict1=dict(zip(alphabets,reverse_alphabets))
