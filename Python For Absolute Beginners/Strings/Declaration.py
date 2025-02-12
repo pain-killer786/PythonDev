@@ -1,7 +1,7 @@
 # Syntax
 name1='Hello World'
 name2="Python is Awesome."
-name3='''Strings in Pthon are super fun.''' # used for multi-line strings
+name3='''Strings in Python are super fun.''' # used for multi-line strings
 
 # String is a sequence of character written using '' "" or ''' '''.
 #Strings are immutable. We can create new string by manupulating the existing string
