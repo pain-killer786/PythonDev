@@ -52,3 +52,5 @@ print(new_fruits)
 
 new_fruits.sort()
 print(new_fruits)
+
+# List Comprehension
